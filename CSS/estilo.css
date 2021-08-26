@@ -36,3 +36,9 @@ h5{
   color: white;
   font size: 25px;
 }
+h6 {
+   text-align: left;
+  font size: 25px;
+  color: white;
+  font-family:'Raleway', sans-serif;
+}
